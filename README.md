@@ -11,7 +11,6 @@
 - UPnP Port Mapper
 - CSR Generator
 - Intuitive GUI
-- Better Than NGINX
 
 The easiest and fastest way to setup WordPress on Windows without installing a web server and mysql database. Setup Up Wordpress + SQLite Database, Easily With A Couple Clicks, No Database Server Needed, Just Wordpress + SQLite.
 ##### Privacy
