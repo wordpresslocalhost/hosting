@@ -12,7 +12,7 @@
 - CSR Generator
 - Intuitive GUI
 
-The easiest and fastest way to setup WordPress on Windows without installing a web server and mysql database. Setup Up Wordpress + SQLite Database, Easily With A Couple Clicks, No Database Server Needed, Just Wordpress + SQLite.
+The easiest and fastest way to setup WordPress on your computer without installing a web server or mysql database. Easily, setup up Wordpress + SQLite with only 1-click, no database server needed, just WordPress + SQLite.
 #### How to download, install, and use WordPress Local Host
 [![How to download, install, and use the WordPress Local Host app](https://img.youtube.com/vi/xkxNse2xb8g/0.jpg)](https://www.youtube.com/watch?v=xkxNse2xb8g)
 ##### Privacy
